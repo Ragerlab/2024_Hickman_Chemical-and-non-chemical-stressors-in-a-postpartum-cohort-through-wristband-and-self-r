@@ -8,5 +8,18 @@ This script was generated to support the analysis and associated figures contain
 
 This script was developed to identify patterns of chemical and social stress co-occurence as measured through wristbands and self report data. Script is divided into subfolders for data processing, chemical pattern analysis, relationships between chemical, demographic, and social stressor data, and hair cortisol analysis (subset of participants). 
 
+**1_DataPreprocess:**
+
+**2_ChemicalPatternAnalysis:**
+
+**3_ChemicalDemoSSAnalysis:**
+
+**4_HairCortisolAnalysis:**
+
+# Publication:
+
+**https://pubmed.ncbi.nlm.nih.gov/39216331/**
+
+
 ![1-s2 0-S0160412024005622-gr1_lrg](https://github.com/user-attachments/assets/fc16ca79-ac41-4e5d-8fa6-370a3ce7a952)
 
